@@ -16,6 +16,9 @@ public class Email {
         this.emailAddress = emailAddress;
     }
 
+    public Email() {
+    }
+
     public Long getId() {
         return id;
     }

@@ -26,7 +26,7 @@ public class Doctor {
 
     @Override
     public String toString() {
-        return getId()+ " " + doctorName;
+        return getId() + " " + doctorName;
 
     }
 
@@ -37,7 +37,7 @@ public class Doctor {
         return hospital;
     }
 
-    public void setHospital(Hospital hospital) {
+    public void setHospital(Hospital spiridon) {
         this.hospital = hospital;
     }
 

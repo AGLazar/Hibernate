@@ -1,4 +1,4 @@
 package comsda.dao;
 
-public class EmailDao {
+public class EmailDao extends GenericDao {
 }
